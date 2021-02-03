@@ -1,2 +1,2 @@
 # ND-Minesweeper
-# Just your average game of minesweeper with an extra dimension or five tacked on. Made for MIT's 6.009 programming course.
+# A twist on the classic video game Minesweeper, where users can play in any number of dimensions. Made for MIT's 6.009 programming course.
